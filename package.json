@@ -1,6 +1,6 @@
 {
   "name": "js-cookie-with-file-support",
-  "version": "2.2.0",
+  "version": "2.2.0.1",
   "description": "A simple, lightweight JavaScript API for handling cookies",
   "main": "src/js.cookie.js",
   "directories": {
