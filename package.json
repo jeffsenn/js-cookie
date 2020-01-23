@@ -1,5 +1,5 @@
 {
-  "name": "@jeffsenn/js-cookie",
+  "name": "@maya-design/js-cookie",
   "version": "2.2.0",
   "description": "A simple, lightweight JavaScript API for handling cookies",
   "main": "src/js.cookie.js",
