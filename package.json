@@ -1,5 +1,5 @@
 {
-  "name": "js-cookie",
+  "name": "@jeffsenn/js-cookie",
   "version": "2.2.0",
   "description": "A simple, lightweight JavaScript API for handling cookies",
   "main": "src/js.cookie.js",
@@ -22,14 +22,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/js-cookie/js-cookie.git"
+    "url": "git://github.com/jeffsenn/js-cookie.git"
   },
   "files": [
     "src/**/*.js",
     "SERVER_SIDE.md",
     "CONTRIBUTING.md"
   ],
-  "author": "Klaus Hartl",
+  "author": "Jeff Senn",
   "license": "MIT",
   "devDependencies": {
     "grunt": "1.0.1",
