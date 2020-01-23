@@ -4,6 +4,19 @@
 
 # JavaScript Cookie [![Build Status](https://travis-ci.org/js-cookie/js-cookie.svg?branch=master)](https://travis-ci.org/js-cookie/js-cookie) [![BrowserStack Status](https://www.browserstack.com/automate/badge.svg?badge_key=b3VDaHAxVDg0NDdCRmtUOWg0SlQzK2NsRVhWTjlDQS9qdGJoak1GMzJiVT0tLVhwZHNvdGRoY284YVRrRnI3eU1JTnc9PQ==--5e88ffb3ca116001d7ef2cfb97a4128ac31174c2)](https://www.browserstack.com/automate/public-build/b3VDaHAxVDg0NDdCRmtUOWg0SlQzK2NsRVhWTjlDQS9qdGJoak1GMzJiVT0tLVhwZHNvdGRoY284YVRrRnI3eU1JTnc9PQ==--5e88ffb3ca116001d7ef2cfb97a4128ac31174c2) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Code Climate](https://codeclimate.com/github/js-cookie/js-cookie.svg)](https://codeclimate.com/github/js-cookie/js-cookie) [![npm](https://img.shields.io/github/package-json/v/js-cookie/js-cookie)](https://www.npmjs.com/package/js-cookie) [![size](https://img.shields.io/bundlephobia/minzip/js-cookie/beta)](https://www.npmjs.com/package/js-cookie) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/js-cookie/badge?style=rounded)](https://www.jsdelivr.com/package/npm/js-cookie)
 
+
+NOTE: Please see the branch: https://github.com/jeffsenn/js-cookie/tree/with-file-support
+Otherwise this is just a fork of js-cookie.
+
+
+
+
+
+
+
+
+
+
 A simple, lightweight JavaScript API for handling cookies
 
 - Works in [all](https://www.browserstack.com/automate/public-build/b3VDaHAxVDg0NDdCRmtUOWg0SlQzK2NsRVhWTjlDQS9qdGJoak1GMzJiVT0tLVhwZHNvdGRoY284YVRrRnI3eU1JTnc9PQ==--5e88ffb3ca116001d7ef2cfb97a4128ac31174c2) browsers
