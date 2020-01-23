@@ -4,6 +4,9 @@
 
 # JavaScript Cookie [![Build Status](https://travis-ci.org/js-cookie/js-cookie.svg?branch=master)](https://travis-ci.org/js-cookie/js-cookie) [![Code Climate](https://codeclimate.com/github/js-cookie/js-cookie.svg)](https://codeclimate.com/github/js-cookie/js-cookie) [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/js-cookie/badge?style=rounded)](https://www.jsdelivr.com/package/npm/js-cookie)
 
+Note: this is a fork with a one-liner patch to support cookie handling in
+Electron pages sourced from file system.
+
 A simple, lightweight JavaScript API for handling cookies
 
 * Works in [all](https://saucelabs.com/u/js-cookie) browsers
