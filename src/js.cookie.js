@@ -42,7 +42,7 @@
 			if (typeof document === 'undefined') {
 				return;
 			}
-			if(document.protocol === 'file:') document = localStorage;
+			if(document.location && document.location.protocol === 'file:') document = localStorage;
 			// Write
 
 			if (arguments.length > 1) {
